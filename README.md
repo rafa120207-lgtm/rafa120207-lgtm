@@ -1,16 +1,16 @@
-## Hi there 👋
+# Olá, sou o Rafael Gonçalves 👋
 
-<!--
-**rafa120207-lgtm/rafa120207-lgtm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Engenharia de IA na FIAP.
+Desenvolvo automações em Python para pequenas empresas e MEIs.
 
-Here are some ideas to get you started:
+## O que eu faço:
+- 🤖 Bots para WhatsApp
+- 📊 Automação de planilhas Excel
+- 📧 Disparo automático de e-mails
+- 🔍 Raspagem de dados e relatórios automáticos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias:
+Python | AWS | Machine Learning (em formação)
+
+## Contato:
+📩 rafa120207@gmail.com
