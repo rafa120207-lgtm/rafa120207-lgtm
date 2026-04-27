@@ -10,7 +10,7 @@ Desenvolvo automações em Python para pequenas empresas e MEIs.
 - 🔍 Raspagem de dados e relatórios automáticos
 
 ## Tecnologias:
-Python | AWS | Machine Learning (em formação)
+Python | AWS | SQL | Machine Learning (em formação)
 
 ## Contato:
 📩 rafa120207@gmail.com
